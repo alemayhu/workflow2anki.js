@@ -17,12 +17,10 @@ const decks = reader.readText(data);
 
 ```json
 [
-	{
-		"name": "Deck Name"
-		"cards": [
-			{ "front": "", "back": ""}
-		]
-	}
+  {
+    "name": "Deck Name",
+    "cards": [{ "front": "", "back": "" }]
+  }
 ]
 ```
 
